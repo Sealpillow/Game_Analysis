@@ -43,8 +43,9 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
   ```
 3. [Linear Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/3.%20Linear%20Regression.ipynb)
   ```
-   - In this notebook, we plotted multiple Linear regression models against Global Sales 
-   - Based on Critic Score, User Score, Year of Release, and Critic Score with User Score as a combined variable
+   - In this notebook, we ploted multiple Linear regression models against Global Sales 
+   - Based on Critic Score, User Score, Year of Release, 
+     and Critic Score with User Score as a combined variable
   ```
 4. [Removing Outliers](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/4.%20Removing%20Outliers.ipynb)
   ```
@@ -52,11 +53,18 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
   ```
 5. [Linear Regression After Filter](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/5.%20Linear%20Regression%20After%20Filter.ipynb)
   ```
-   - In this notebook, we plotted multiple Linear regression models against Global Sales 
+   - In this notebook, we ploted multiple Linear regression models against Global Sales 
    - Based on Critic Score and User Score to check any improvement in Linear Regression Model
   ```
 6. [Random Forest Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/6.%20Random%20forest.ipynb)
+```
+   - In this notebook, we ploted non-linear regression using Random Forest regression
+  ```
 7. [Lasso, Ridge Regression, Importance Values](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/7.%20Lasso%2C%20Ridge%2C%20Importance%20value.ipynb)
+```
+   - In this notebook, we ploted did Lasso and Ridge regression
+   - We then determined the importance of each subcategory(Genre, Publisher, Rating, Platform) and what games Game Creators should create
+   ```
 
 ## 💡 Conclusion
 From our machine learning we learnt the following. Video game creators should create a simulation game as it would generate the highest global sales. They should also liaise with Nintendo as they have the highest probability of generating highest revenue and the game rating is recommended to be ‘AO’. We also recommend that games be created on the PS2 or Wii platform as they are the more popular gaming platforms and would have the highest global sales. 
